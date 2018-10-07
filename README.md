@@ -4,9 +4,12 @@ A blending equation for high extraction and medium strong bread flour is
 developed using Jupyter Notebook.
 
 The equations are implemented in an Excel spreadsheet, which also works in
-Google Sheets. The spreadsheet includes page references to Tartine 3. The
-values from the Tartine recipes have been removed to respect Chad Robertson's
-copy right.
+Google Sheets. However, Google Sheets will copy the Excel file if you select
+Edit with Sheets instead of read only. Basically you'll end up with a duplicate
+file.
+
+The spreadsheet includes page references to Tartine 3. The values from the
+Tartine recipes have been removed to respect Chad Robertson's copy right.
 
 - The spreadsheet is protected, so un-protect, no password required, to edit
   the spreadsheet.
