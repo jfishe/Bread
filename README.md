@@ -1,5 +1,7 @@
 # Bread
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jfishe/Bread.git/master?filepath=APFlourBlend.ipynb)
+
 A blending equation for high extraction and medium strong bread flour is
 developed using Jupyter Notebook.
 
